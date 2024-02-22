@@ -10,8 +10,6 @@
 
 - 📝 I write on Datalike - a newsletter dedicated to spotlighting the journeys and achievements of women in data-related fields [https://datalike.substack.com/](https://datalike.substack.com/)
 
-- 📫 How to reach me **bisnotforbella@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
