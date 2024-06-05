@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bella </h1>
+<h1 align="center">Hi, I'm Bella </h1>
 
-- 🌟 Interested in Machine Learning/Computer Vision, Open-Source and Democratization of Machine Learning 
+- 🌟 I am a freelancer Machine Learning Engineering and Data Scientist 
 
-- ✍️ Trying to get back into technical writing
+- 📝 I enjoy content creation (mostly in the form of tutorials)
 
-- 🌱 I’m currently learning **MLOps**
+- 💌 Follow my newsletter to hear about awesome women](https://datalike.substack.com/)
 
-- 📫 How to reach me **bisnotforbella@gmail.com**
-
-- 📝 I write on Datalike - a newsletter dedicated to spotlighting the journeys and achievements of women in data-related fields [https://datalike.substack.com/](https://datalike.substack.com/)
-
+- 📫 I am open to public speaking invitations. If you have a local Python or machine learning club and need a speaker reach me at **bisnotforbella@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
