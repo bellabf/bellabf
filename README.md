@@ -1,6 +1,6 @@
 # Hi, I'm Bella
 
-<img src="https://github.com/bellabf/bellabf/blob/main/banner.png?raw=true" alt="banner that says Isabella-Bicalho Frazeto- ml engineer, data scientist and content creator  alongside ai generated cartoon illustration of Isabella">
+<img src="https://github.com/bellabf/bellabf/blob/main/github_banner.png?raw=true" alt="banner that says Isabella-Bicalho Frazeto- ml engineer, data scientist and content creator  alongside ai generated cartoon illustration of Isabella">
 
 - 🌟 I am a freelancer Machine Learning Engineering and Data Scientist
 
@@ -23,10 +23,13 @@
 
 
 ## 📫 Interested in collaborating?
-<a> <img align="left" width="150" height="150" src="https://github.com/bellabf/bellabf/blob/main/octocat-bella.gif?raw=true"></a>
+<a> <img align="left" width="80" height="80" src="https://github.com/bellabf/bellabf/blob/main/octocat-bella.gif?raw=true"></a>
 <p align="center">
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/isabella-frazeto/">LinkedIn</a> 💼 | <a href="https://twitter.com/bisnotforbella">Twitter</a> 🐦 | <a href="bisnotforbella@gmail.com"> Email </a> ✉️ 
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/isabella-frazeto/">LinkedIn</a> 💼  <br>
+   <a href="https://twitter.com/bisnotforbella">Twitter</a> 🐦  <br>
+   <a href="mailto:bisnotforbella@gmail.com"> Email </a> ✉️ 
 </p>
 
-
-
+<p align="center">
+   <a> All models are wrong, but some I am emotionally attached to.
+</p>
