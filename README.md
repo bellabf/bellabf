@@ -10,6 +10,8 @@
   
 - 💌 [Follow my newsletter to hear about awesome women in data](https://datalike.substack.com/)
 
+- 📢 Interesting in having me speak at an upcoming event or workshop? Send me a message!
+
 ## Languages and Tools:
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
