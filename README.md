@@ -2,7 +2,7 @@
 
 <img src="https://github.com/bellabf/bellabf/blob/main/github_banner.png?raw=true" alt="banner that says Isabella-Bicalho Frazeto - ml engineer, data scientist and content creator  alongside ai generated cartoon illustration of Isabella">
 
-- 🌟 I am a freelancer Machine Learning Engineer and Data Scientist
+- 🌟 Machine Learning Engineer and Data Scientist
 
 - @bisnotforbella everywhere else
 
