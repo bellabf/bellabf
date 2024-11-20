@@ -1,37 +1,61 @@
-# Hi, I'm Bella
+# Hi, I'm Bella 👋
 
-<img src="https://github.com/bellabf/bellabf/blob/main/github_banner.png?raw=true" alt="banner that says Isabella-Bicalho Frazeto - ml engineer, data scientist and content creator  alongside ai generated cartoon illustration of Isabella">
+<img src="https://github.com/bellabf/bellabf/blob/main/github_banner.png?raw=true" alt="banner that says Isabella-Bicalho Frazeto - ml engineer, data scientist and content creator alongside ai generated cartoon illustration of Isabella">
 
 - 🌟 Machine Learning Engineer and Data Scientist
-
 - @bisnotforbella everywhere else
-
 - ♻️ Open source, Open data, and Open models enthusiast
   
 - 💌 [Follow my newsletter to hear about awesome women in data](https://datalike.substack.com/)
-
 - 📢 Interesting in having me speak at an upcoming event or workshop? Send me a message!
 
-## Languages and Tools:
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  
-  <a href="https://scikit-image.org/" target="_blank" rel="noreferrer"> <img src="https://scikit-image.org/docs/stable/_static/logo.png" alt="skimage" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-</p>
+## What I Do 💡
+```python
+class Bella:
+    def __init__(self):
+        self.motto = "All models are wrong, but some I am emotionally attached to"
+    
+    def daily_routine(self):
+        return [
+            "Coffee ☕ => Code",
+            "Walk my dog 🐕",
+            "Train models until they behave",
+            "Beg models to output valid JSONs",
+            "Convince LLMs that strawberry does have 2 rs",
+            "model.to('cuda') # please",
+            "More coffee ☕"
+        ]
+    
+    def current_projects(self):
+        return {
+            "🧬 BioLM": "Training transformers on genomic sequences",
+            "⚖️ Legal ML": "Multi-lingual document processing",
+            "🌳 GreenUrban": "Mapping green spaces via remote sensing",
+            "🤝 Open Source": "Contributing to ML community projects"
+        }
 
+me = Bella()
+```
 
-## 📫 Interested in collaborating?
-<a> <img align="left" width="80" height="80" src="https://github.com/bellabf/bellabf/blob/main/octocat-bella.gif?raw=true"></a>
+## Tech Stack 🛠️
+- **ML/DL**: `PyTorch` · `TensorFlow` · `Scikit-learn` · `Hugging Face` · `LangChain`
+- **Computer Vision**: `OpenCV` · `Scikit-image` · `YOLO` · `Ultralytics`
+- **NLP & LLMs**: `Transformers` · `Diffusers` · `LangChain` · `Spacy` · `RAG`
+- **MLOps**: `MLflow` · `W&B` · `Docker` · `Git` · `CI/CD`
+- **Data**: `Pandas` · `NumPy` · `GeoPandas` · `SQL` · `SPARQL`
+
+## Latest Content 📚
+<!-- BLOG-POST-LIST:START -->
+- 📫 [Subscribe to my newsletter](https://datalike.substack.com/) for weekly insights about women in data science
+<!-- BLOG-POST-LIST:END -->
+
+## Let's Connect! 
 <p align="center">
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/isabella-frazeto/">LinkedIn</a> 💼  <br>
-   <a href="https://twitter.com/bisnotforbella">Twitter</a> 🐦  <br>
-   <a href="mailto:bisnotforbella@gmail.com"> Email </a> ✉️ 
+<a href="https://linkedin.com/in/isabella-frazeto">LinkedIn</a> 💼
+<br>
+<a href="https://twitter.com/bisnotforbella">Twitter</a> 🐦
+<br>
+<a href="mailto:bisnotforbella@gmail.com">Email</a> ✉️
 </p>
 
-<p align="center">
-   <a> All models are wrong, but some I am emotionally attached to.
-</p>
+---
